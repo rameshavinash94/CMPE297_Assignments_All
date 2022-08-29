@@ -1,1 +1,1 @@
-# GithubCopilot
+# GithubCopilot & Cool AI demos
