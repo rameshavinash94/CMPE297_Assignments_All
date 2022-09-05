@@ -37,9 +37,7 @@ https://www.youtube.com/watch?v=EE775dP7Ur8
 
 # Interplay Mode
  ## Making videos interactive with AI
- 
-
-Uploading Screen Recording 2022-09-05 at 1.54.58 PM.mov…
+ ![interplay](https://user-images.githubusercontent.com/87649563/188512177-67bb4d0e-935d-4fcd-aad3-cd5a3daf08d3.gif)
 
 
 # Scrobby
