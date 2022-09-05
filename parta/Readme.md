@@ -6,4 +6,4 @@ Sample Uploaded Video:
 https://www.youtube.com/watch?v=0mRUlKtcluI
 
 Sample Pytorch Video:
-https://www.youtube.com/watch?v=gISQgVEkO_M
+https://www.youtube.com/watch?v=6kNHmdVm7_o
