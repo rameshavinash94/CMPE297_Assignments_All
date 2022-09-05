@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=EE775dP7Ur8
 
 <img width="776" alt="Screen Shot 2022-08-29 at 11 52 34 AM" src="https://user-images.githubusercontent.com/87649563/187276281-b3212fc9-0d3c-4b55-b3bc-c40bf83b17ef.png">
 
+<img width="1072" alt="Screen Shot 2022-09-05 at 1 41 59 PM" src="https://user-images.githubusercontent.com/87649563/188510782-4c31251b-9a04-421a-93ac-8f2cae92fdc8.png">
+
 # GOOGLE QUICK DRAW
 
 ![draw_google](https://user-images.githubusercontent.com/87649563/187276702-5c3aed2a-ad3e-46df-ba94-d171bfaf8825.gif)
@@ -32,4 +34,15 @@ https://www.youtube.com/watch?v=EE775dP7Ur8
 # https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
 
 ![draw_flower](https://user-images.githubusercontent.com/87649563/187275702-a9d4d7d1-ee7e-4476-9f45-1ca029bebcf5.gif)
+
+# Interplay Mode
+ ## Making videos interactive with AI
+ 
+
+Uploading Screen Recording 2022-09-05 at 1.54.58 PM.mov…
+
+
+# Scrobby
+## https://www.scroobly.com
+![scroobly](https://user-images.githubusercontent.com/87649563/188511988-fb0d1579-34ca-41aa-bd77-94326995a42a.gif)
 
