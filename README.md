@@ -22,3 +22,6 @@ HEAD2TOE has similar/higher accuracy compared with traditional TL
 TRADITIONAL TL ACCURACY:
 
 <img width="711" alt="Screen Shot 2022-10-23 at 11 02 21 PM" src="https://user-images.githubusercontent.com/87649563/197458069-d49d2b0f-7c68-4b7d-8085-98bfaa009fab.png">
+
+HEAD2TOE ACCURACY:
+<img width="1293" alt="Screen Shot 2022-10-23 at 11 53 44 PM" src="https://user-images.githubusercontent.com/87649563/197465526-7db53bb9-763b-401d-8d15-a71d4a0024a1.png">
