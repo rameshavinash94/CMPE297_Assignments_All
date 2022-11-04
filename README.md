@@ -9,3 +9,10 @@ https://github.com/rameshavinash94/CMPE297_Assignments_All/blob/A4ML%26CL/meta_l
 
 c) Implkement a colab of  metalearning on top of BERT
 https://github.com/rameshavinash94/CMPE297_Assignments_All/blob/A4ML%26CL/BERT_Meta_Learning.ipynb
+
+
+To open in Colab:
+https://colab.research.google.com/github/rameshavinash94/CMPE297_Assignments_All/blob/A4ML&CL/Reptile_MAML_algorithm.ipynb 
+https://colab.research.google.com/github/rameshavinash94/CMPE297_Assignments_All/blob/A4ML&CL/meta_learning_using_prototypical_networks_in_pytorch.ipynb
+https://colab.research.google.com/github/rameshavinash94/CMPE297_Assignments_All/blob/A4ML&CL/BERT_Meta_Learning.ipynb
+
