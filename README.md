@@ -1,4 +1,4 @@
-# CMPE297_Assignments_All
+# Assignment 5 : Continual ML and Active Learning 
 
 b) Write a colab to demonstrate active learning with lightly.ai end2end
 
